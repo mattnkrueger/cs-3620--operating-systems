@@ -13,3 +13,10 @@ Operating Systems, fall 2025 course contents
 </div>
 
 ---
+
+### Homework
+- [HW 1](homework/hw1/)
+- [HW 2](homework/HW2_multi-level-feedback-queue.pdf)
+- [HW 3](homework/hw3/)
+- [HW 4](homework/HW4_least-recently-used.pdf)
+- [HW 5](homework/hw5/)
